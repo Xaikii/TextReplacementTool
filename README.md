@@ -7,6 +7,6 @@ Useful for:
 - exchange words to make your text look better
 - tedious work, where you only have to replace a single word
 
-2 Billion Character Limit 
-Accepts formating
+2 Billion Character Limit <br>
+Accepts formating <br>
 Very Lightweight
