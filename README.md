@@ -8,5 +8,7 @@ Useful for:
 - tedious work, where you only have to replace a single word
 
 2 Billion Character Limit 
+
 Accepts formating
+
 Very Lightweight
